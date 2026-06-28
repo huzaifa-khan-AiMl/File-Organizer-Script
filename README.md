@@ -112,7 +112,6 @@ It can:
 ## 🔮 Future Improvements
 
 * Command-line arguments
-* GUI version using Tkinter or CustomTkinter
 * File logging
 * Duplicate file handling
 * Custom folder mappings
